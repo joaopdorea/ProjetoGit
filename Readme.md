@@ -1,0 +1,1 @@
+Esse arquivo serve para explicar algumas coisas sobre o GitHub
